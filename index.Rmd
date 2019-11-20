@@ -8,3 +8,37 @@ output:
 
 # Welcome to Katie's awesome website!
 #### Feel free to poke around and explore!
+
+
+![](images/image2.jpg)
+
+This is a Scottish Highland cow. Doesn't its hair look majestic? 
+
+# My favorite links
+
+I often use [google](https://google.com) to do **data science**. Another helpful website is [stackoverflow](https://stackoverflow.com/). 
+
+My favorite resource is Jeff's collection of [lecture videos online](https://courseworks2.columbia.edu/courses/87974/external_tools/13582)! 
+
+![](images/image.jpg) 
+
+
+# Interesting articles 
+
+# Good recipes
+
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+![](https://media.giphy.com/media/gpISkg5ZVKDja/giphy.gif)
+
+
+# More about me 
+
+To learn more about me, go to my [experience](experience.html) page! 
+
+![](https://media.giphy.com/media/P4EO3u0apt3PO/giphy.gif)
+
+
+
+
