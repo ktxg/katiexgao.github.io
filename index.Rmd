@@ -1,12 +1,12 @@
 ---
-title: "My awesome website"
+title: "Katie's awesome website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Welcome to Katie's awesome website!
+# Welcome 
 #### Feel free to poke around and explore!
 
 
@@ -38,21 +38,26 @@ Here are recent articles I thought were interesting. Feel free to click and take
 # Some bad puns 
 
 **How does NASA organize a party?** 
+
 They planet.
 
 **What happens to a frog's car when it breaks down?** 
+
 It gets toad away.
 
 **George Clooney, Leonardo DiCaprio, and Matthew McConaughey get together to make a movie.** 
+
 Clooney says, "I'll direct." 
 DiCaprio says, "I'll act." 
 McConaughey says, "I'll write, I'll write, I'll write." 
 
 **A horse walks into a bar...**
+
 The bartender says, "Hey." 
 The horse replies, "Sure." 
 
 **I told my friend not to get too excited about turning 32 since her birthday party would be so short.**
+
 "Why would it be short?" she asked. 
 I said, "Because it's your thirty-second birthday." 
 

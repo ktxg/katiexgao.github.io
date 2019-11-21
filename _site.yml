@@ -7,6 +7,8 @@ navbar:
       href: experience.html
     - icon: fa-envelope fa-lg
       href: mailto:<kxg2002@cumc.columbia.edu>
+    - icon: fab fa-fw fa-linkedin
+      href: https://www.linkedin.com/in/katiexgao/
     - icon: fa-github fa-lg
       href: https://github.com/ktxg
 output:

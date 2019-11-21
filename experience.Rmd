@@ -6,7 +6,43 @@ output:
     toc_float: true
 ---
 
-# Katie's Academic and Professional Experience
+# Education
+**Columbia University Mailman School of Public Health, New York, NY** 
+
+May 2020
+Master of Public Health (MPH), Department of Environmental Health Sciences, Certificate in Molecular Epidemiology
+Vanderbilt University, Nashville, TN May 2018
+Bachelor of Arts, Double Major in Medicine, Health & Society and Environmental Sociology
+University of Edinburgh, Edinburgh, Scotland Fall 2017
+Semester study abroad
+
+*   Bulleted list item 1
+*   Bulleted list item 1
+*   Bulleted list item 1
+
+# Professional Experience
+
+# Leadership & Involvement 
+
+# Volunteer Experience
+
+# Languages & Skills 
+
+
+
+
+
+Lists
+------------------------------------------------------------
+
+*   Bulleted list item 1
+
+*   Item 2
+
+    * Item 2a
+
+    * Item 2b
+
 
 
 
